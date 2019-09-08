@@ -17,6 +17,8 @@ policyareas:
   - title: New Things
     description: The newness
     type: additional_policy
+  - policy_relation: Transporation
+    type: related_policy
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 

@@ -12,7 +12,7 @@ collections:
     folder: "src/pages/policies"
     create: true
     fields:
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
   - name: "blog"
     label: "Blog"
